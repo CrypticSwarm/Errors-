@@ -1,0 +1,111 @@
+errloop_fac_pow_swappable.cpp: In member function ‘void factorial<0>::f()’:
+errloop_fac_pow_swappable.cpp:25: error: invalid conversion from ‘int’ to ‘void*’
+errloop_fac_pow_swappable.cpp:25: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 1]’
+errloop_fac_pow_swappable.cpp: In member function ‘void POW2<base>::f() [with int base = 0]’:
+errloop_fac_pow_swappable.cpp:53:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 0, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:70:   instantiated from here
+errloop_fac_pow_swappable.cpp:34: error: invalid conversion from ‘int’ to ‘void*’
+errloop_fac_pow_swappable.cpp:34: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 0]’
+errloop_fac_pow_swappable.cpp: In member function ‘void POW2<base>::f() [with int base = 1]’:
+errloop_fac_pow_swappable.cpp:53:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 1, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 0, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:70:   instantiated from here
+errloop_fac_pow_swappable.cpp:34: error: invalid conversion from ‘int’ to ‘void*’
+errloop_fac_pow_swappable.cpp:34: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 1]’
+errloop_fac_pow_swappable.cpp: In member function ‘void POW2<base>::f() [with int base = 2]’:
+errloop_fac_pow_swappable.cpp:53:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 2, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 1, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 0, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:70:   instantiated from here
+errloop_fac_pow_swappable.cpp:34: error: invalid conversion from ‘int’ to ‘void*’
+errloop_fac_pow_swappable.cpp:34: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 4]’
+errloop_fac_pow_swappable.cpp: In member function ‘void POW2<base>::f() [with int base = 3]’:
+errloop_fac_pow_swappable.cpp:53:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 3, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 2, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 1, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 0, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:70:   instantiated from here
+errloop_fac_pow_swappable.cpp:34: error: invalid conversion from ‘int’ to ‘void*’
+errloop_fac_pow_swappable.cpp:34: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 9]’
+errloop_fac_pow_swappable.cpp: In member function ‘void POW2<base>::f() [with int base = 4]’:
+errloop_fac_pow_swappable.cpp:53:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 4, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 3, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 2, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 1, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 0, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:70:   instantiated from here
+errloop_fac_pow_swappable.cpp:34: error: invalid conversion from ‘int’ to ‘void*’
+errloop_fac_pow_swappable.cpp:34: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 16]’
+errloop_fac_pow_swappable.cpp: In member function ‘void POW2<base>::f() [with int base = 5]’:
+errloop_fac_pow_swappable.cpp:53:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 5, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 4, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 3, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 2, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 1, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 0, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:70:   instantiated from here
+errloop_fac_pow_swappable.cpp:34: error: invalid conversion from ‘int’ to ‘void*’
+errloop_fac_pow_swappable.cpp:34: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 25]’
+errloop_fac_pow_swappable.cpp: In member function ‘void POW2<base>::f() [with int base = 6]’:
+errloop_fac_pow_swappable.cpp:53:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 6, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 5, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 4, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 3, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 2, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 1, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 0, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:70:   instantiated from here
+errloop_fac_pow_swappable.cpp:34: error: invalid conversion from ‘int’ to ‘void*’
+errloop_fac_pow_swappable.cpp:34: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 36]’
+errloop_fac_pow_swappable.cpp: In member function ‘void POW2<base>::f() [with int base = 7]’:
+errloop_fac_pow_swappable.cpp:53:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 7, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 6, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 5, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 4, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 3, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 2, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 1, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 0, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:70:   instantiated from here
+errloop_fac_pow_swappable.cpp:34: error: invalid conversion from ‘int’ to ‘void*’
+errloop_fac_pow_swappable.cpp:34: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 49]’
+errloop_fac_pow_swappable.cpp: In member function ‘void FOR<S, E, I, LI, K>::f() [with int S = 9, int E = 10, int I = 1, LI = POW2, bool K = true]’:
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 8, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 7, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 6, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 5, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 4, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 3, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 2, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 1, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 0, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:70:   instantiated from here
+errloop_fac_pow_swappable.cpp:62: error: ‘void FOR<S, E, I, LI, false>::f() [with int S = 10, int E = 10, int I = 1, LI = POW2]’ is private
+errloop_fac_pow_swappable.cpp:52: error: within this context
+errloop_fac_pow_swappable.cpp: In member function ‘void POW2<base>::f() [with int base = 8]’:
+errloop_fac_pow_swappable.cpp:53:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 8, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 7, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 6, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 5, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 4, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 3, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 2, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 1, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 0, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:70:   instantiated from here
+errloop_fac_pow_swappable.cpp:34: error: invalid conversion from ‘int’ to ‘void*’
+errloop_fac_pow_swappable.cpp:34: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 64]’
+errloop_fac_pow_swappable.cpp: In member function ‘void POW2<base>::f() [with int base = 9]’:
+errloop_fac_pow_swappable.cpp:53:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 9, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 8, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 7, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 6, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 5, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 4, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 3, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 2, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 1, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:52:   instantiated from ‘void FOR<S, E, I, LI, K>::f() [with int S = 0, int E = 10, int I = 1, LI = POW2, bool K = true]’
+errloop_fac_pow_swappable.cpp:70:   instantiated from here
+errloop_fac_pow_swappable.cpp:34: error: invalid conversion from ‘int’ to ‘void*’
+errloop_fac_pow_swappable.cpp:34: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 81]’

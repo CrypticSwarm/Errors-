@@ -1,0 +1,96 @@
+errloop_primes.cpp: In member function ‘void Prime_print<i>::f() [with int i = 17]’:
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 18]’
+errloop_primes.cpp:53:   instantiated from here
+errloop_primes.cpp:32: error: invalid conversion from ‘int’ to ‘void*’
+errloop_primes.cpp:32: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 17]’
+errloop_primes.cpp: In member function ‘void Prime_print<i>::f() [with int i = 13]’:
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 14]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 15]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 16]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 17]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 18]’
+errloop_primes.cpp:53:   instantiated from here
+errloop_primes.cpp:32: error: invalid conversion from ‘int’ to ‘void*’
+errloop_primes.cpp:32: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 13]’
+errloop_primes.cpp: In member function ‘void Prime_print<i>::f() [with int i = 11]’:
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 12]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 13]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 14]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 15]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 16]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 17]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 18]’
+errloop_primes.cpp:53:   instantiated from here
+errloop_primes.cpp:32: error: invalid conversion from ‘int’ to ‘void*’
+errloop_primes.cpp:32: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 11]’
+errloop_primes.cpp: In member function ‘void Prime_print<i>::f() [with int i = 7]’:
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 8]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 9]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 10]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 11]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 12]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 13]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 14]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 15]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 16]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 17]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 18]’
+errloop_primes.cpp:53:   instantiated from here
+errloop_primes.cpp:32: error: invalid conversion from ‘int’ to ‘void*’
+errloop_primes.cpp:32: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 7]’
+errloop_primes.cpp: In member function ‘void Prime_print<i>::f() [with int i = 5]’:
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 6]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 7]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 8]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 9]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 10]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 11]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 12]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 13]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 14]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 15]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 16]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 17]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 18]’
+errloop_primes.cpp:53:   instantiated from here
+errloop_primes.cpp:32: error: invalid conversion from ‘int’ to ‘void*’
+errloop_primes.cpp:32: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 5]’
+errloop_primes.cpp: In member function ‘void Prime_print<i>::f() [with int i = 3]’:
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 4]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 5]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 6]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 7]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 8]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 9]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 10]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 11]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 12]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 13]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 14]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 15]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 16]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 17]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 18]’
+errloop_primes.cpp:53:   instantiated from here
+errloop_primes.cpp:32: error: invalid conversion from ‘int’ to ‘void*’
+errloop_primes.cpp:32: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 3]’
+errloop_primes.cpp: In member function ‘void Prime_print<i>::f() [with int i = 2]’:
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 3]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 4]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 5]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 6]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 7]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 8]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 9]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 10]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 11]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 12]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 13]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 14]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 15]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 16]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 17]’
+errloop_primes.cpp:33:   instantiated from ‘void Prime_print<i>::f() [with int i = 18]’
+errloop_primes.cpp:53:   instantiated from here
+errloop_primes.cpp:32: error: invalid conversion from ‘int’ to ‘void*’
+errloop_primes.cpp:32: error:   initializing argument 1 of ‘D<i>::D(void*) [with int i = 2]’
